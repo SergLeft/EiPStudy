@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (1.0+r73+1)"
+   sodipodi:docname="Vererbung.svg"
+   id="svg157"
+   version="1.1"
+   viewBox="159 19 1142 650"
+   height="33cm"
+   width="58cm">
+  <metadata
+     id="metadata163">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs161">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleOutL"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL">
+      <path
+         transform="scale(0.8)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path1497" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="TriangleInL"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleInL">
+      <path
+         transform="scale(-0.8)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path1488" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     inkscape:current-layer="svg157"
+     inkscape:window-maximized="1"
+     inkscape:window-y="27"
+     inkscape:window-x="67"
+     inkscape:cy="623.62207"
+     inkscape:cx="1096.063"
+     inkscape:zoom="0.6815025"
+     showgrid="false"
+     id="namedview159"
+     inkscape:window-height="1025"
+     inkscape:window-width="1853"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <g
+     id="Hintergrund">
+    <g
+       id="g20">
+      <rect
+         id="rect2"
+         height="28"
+         width="200"
+         y="20"
+         x="660"
+         style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" />
+      <text
+         id="text4"
+         y="43"
+         x="760"
+         style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:TeX Gyre Heros;font-style:italic;font-weight:normal"
+         font-size="16">GeoForm</text>
+      <rect
+         id="rect6"
+         height="52"
+         width="200"
+         y="48"
+         x="660"
+         style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" />
+      <text
+         id="text8"
+         y="65.2"
+         x="663"
+         style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:TeX Gyre Heros;font-style:italic;font-weight:normal"
+         font-size="12.8"
+         xml:space="preserve"> farbe: str</text>
+      <text
+         id="text10"
+         y="81.2"
+         x="663"
+         style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:TeX Gyre Heros;font-style:italic;font-weight:normal"
+         font-size="12.8"
+         xml:space="preserve"> cx: float</text>
+      <text
+         id="text12"
+         y="97.2"
+         x="663"
+         style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:TeX Gyre Heros;font-style:italic;font-weight:normal"
+         font-size="12.8"
+         xml:space="preserve"> cy: float</text>
+      <rect
+         id="rect14"
+         height="36"
+         width="200"
+         y="100"
+         x="660"
+         style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" />
+      <text
+         id="text16"
+         y="117.2"
+         x="663"
+         style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:TeX Gyre Heros;font-style:italic;font-weight:normal"
+         font-size="12.8"
+         xml:space="preserve"> verschiebe(dx:float,dy:float)</text>
+      <text
+         id="text18"
+         y="133.2"
+         x="663"
+         style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:TeX Gyre Heros;font-style:italic;font-weight:normal"
+         font-size="12.8"
+         xml:space="preserve"> str(): str</text>
+    </g>
+    <g
+       id="g42">
+      <rect
+         id="rect22"
+         height="28"
+         width="280"
+         y="300"
+         x="160"
+         style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" />
+      <text
+         id="text24"
+         y="323"
+         x="300"
+         style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:TeX Gyre Heros;font-style:italic;font-weight:normal"
+         font-size="16">Rechteck</text>
+      <rect
+         id="rect26"
+         height="36"
+         width="280"
+         y="328"
+         x="160"
+         style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" />
+      <text
+         id="text28"
+         y="345.2"
+         x="163"
+         style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:TeX Gyre Heros;font-style:italic;font-weight:normal"
+         font-size="12.8"
+         xml:space="preserve"> laenge: float</text>
+      <text
+         id="text30"
+         y="361.2"
+         x="163"
+         style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:TeX Gyre Heros;font-style:italic;font-weight:normal"
+         font-size="12.8"
+         xml:space="preserve"> breite: float</text>
+      <rect
+         id="rect32"
+         height="68"
+         width="280"
+         y="364"
+         x="160"
+         style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" />
+      <text
+         id="text34"
+         y="381.2"
+         x="163"
+         style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:TeX Gyre Heros;font-style:italic;font-weight:normal"
+         font-size="12.8"
+         xml:space="preserve"> Rechteck(farbe:str,cx:float,cy:float,laenge:float,</text>
+      <text
+         id="text36"
+         y="397.2"
+         x="163"
+         style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:TeX Gyre Heros;font-style:italic;font-weight:normal"
+         font-size="12.8"
+         xml:space="preserve">          breite:float)</text>
+      <text
+         id="text38"
+         y="413.2"
+         x="163"
+         style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:TeX Gyre Heros;font-style:italic;font-weight:normal"
+         font-size="12.8"
+         xml:space="preserve"> flaeche(): float</text>
+      <text
+         id="text40"
+         y="429.2"
+         x="163"
+         style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:TeX Gyre Heros;font-style:italic;font-weight:normal"
+         font-size="12.8"
+         xml:space="preserve"> str(): str</text>
+    </g>
+    <g
+       id="g64">
+      <rect
+         id="rect44"
+         height="28"
+         width="260"
+         y="300"
+         x="1040"
+         style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" />
+      <text
+         id="text46"
+         y="323"
+         x="1170"
+         style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:TeX Gyre Heros;font-style:italic;font-weight:normal"
+         font-size="16">Ellipse</text>
+      <rect
+         id="rect48"
+         height="36"
+         width="260"
+         y="328"
+         x="1040"
+         style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" />
+      <text
+         id="text50"
+         y="345.2"
+         x="1043"
+         style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:TeX Gyre Heros;font-style:italic;font-weight:normal"
+         font-size="12.8"
+         xml:space="preserve"> a: float</text>
+      <text
+         id="text52"
+         y="361.2"
+         x="1043"
+         style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:TeX Gyre Heros;font-style:italic;font-weight:normal"
+         font-size="12.8"
+         xml:space="preserve"> b: float</text>
+      <rect
+         id="rect54"
+         height="68"
+         width="260"
+         y="364"
+         x="1040"
+         style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" />
+      <text
+         id="text56"
+         y="381.2"
+         x="1043"
+         style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:TeX Gyre Heros;font-style:italic;font-weight:normal"
+         font-size="12.8"
+         xml:space="preserve"> Ellipse(farbe:str,cx:float,cy:float,a:float,</text>
+      <text
+         id="text58"
+         y="397.2"
+         x="1043"
+         style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:TeX Gyre Heros;font-style:italic;font-weight:normal"
+         font-size="12.8"
+         xml:space="preserve">         b:float)</text>
+      <text
+         id="text60"
+         y="413.2"
+         x="1043"
+         style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:TeX Gyre Heros;font-style:italic;font-weight:normal"
+         font-size="12.8"
+         xml:space="preserve"> flaeche(): float</text>
+      <text
+         id="text62"
+         y="429.2"
+         x="1043"
+         style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:TeX Gyre Heros;font-style:italic;font-weight:normal"
+         font-size="12.8"
+         xml:space="preserve"> str(): str</text>
+    </g>
+    <g
+       id="g86">
+      <rect
+         id="rect66"
+         height="28"
+         width="280"
+         y="300"
+         x="620"
+         style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" />
+      <text
+         id="text68"
+         y="323"
+         x="760"
+         style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:TeX Gyre Heros;font-style:italic;font-weight:normal"
+         font-size="16">Raute</text>
+      <rect
+         id="rect70"
+         height="36"
+         width="280"
+         y="328"
+         x="620"
+         style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" />
+      <text
+         id="text72"
+         y="345.2"
+         x="623"
+         style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:TeX Gyre Heros;font-style:italic;font-weight:normal"
+         font-size="12.8"
+         xml:space="preserve"> laenge: float</text>
+      <text
+         id="text74"
+         y="361.2"
+         x="623"
+         style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:TeX Gyre Heros;font-style:italic;font-weight:normal"
+         font-size="12.8"
+         xml:space="preserve"> winkel: float</text>
+      <rect
+         id="rect76"
+         height="68"
+         width="280"
+         y="364"
+         x="620"
+         style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" />
+      <text
+         id="text78"
+         y="381.2"
+         x="623"
+         style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:TeX Gyre Heros;font-style:italic;font-weight:normal"
+         font-size="12.8"
+         xml:space="preserve"> Raute(farbe:str,cx:float,cy:float,laenge:float,</text>
+      <text
+         id="text80"
+         y="397.2"
+         x="623"
+         style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:TeX Gyre Heros;font-style:italic;font-weight:normal"
+         font-size="12.8"
+         xml:space="preserve">       winkel:float)</text>
+      <text
+         id="text82"
+         y="413.2"
+         x="623"
+         style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:TeX Gyre Heros;font-style:italic;font-weight:normal"
+         font-size="12.8"
+         xml:space="preserve"> flaeche(): float</text>
+      <text
+         id="text84"
+         y="429.2"
+         x="623"
+         style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:TeX Gyre Heros;font-style:italic;font-weight:normal"
+         font-size="12.8"
+         xml:space="preserve"> str(): str</text>
+    </g>
+    <g
+       id="g102">
+      <rect
+         id="rect88"
+         height="28"
+         width="280"
+         y="580"
+         x="400"
+         style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" />
+      <text
+         id="text90"
+         y="603"
+         x="540"
+         style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:TeX Gyre Heros;font-style:italic;font-weight:normal"
+         font-size="16">Quadrat</text>
+      <rect
+         id="rect92"
+         height="8"
+         width="280"
+         y="608"
+         x="400"
+         style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" />
+      <rect
+         id="rect94"
+         height="52"
+         width="280"
+         y="616"
+         x="400"
+         style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" />
+      <text
+         id="text96"
+         y="633.2"
+         x="403"
+         style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:TeX Gyre Heros;font-style:italic;font-weight:normal"
+         font-size="12.8"
+         xml:space="preserve"> Quadrat(farbe:str,cx:float,cy:float,laenge:float)</text>
+      <text
+         id="text98"
+         y="649.2"
+         x="403"
+         style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:TeX Gyre Heros;font-style:italic;font-weight:normal"
+         font-size="12.8"
+         xml:space="preserve"> seitenlaenge(): float</text>
+      <text
+         id="text100"
+         y="665.2"
+         x="403"
+         style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:TeX Gyre Heros;font-style:italic;font-weight:normal"
+         font-size="12.8"
+         xml:space="preserve"> str(): str</text>
+    </g>
+    <g
+       id="g108">
+      <polyline
+         id="polyline104"
+         points="760,155.243 760,226 300,226 300,298.992 "
+         style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" />
+      <polygon
+         id="polygon106"
+         points="768,155.243 760,139.243 752,155.243 "
+         fill-rule="evenodd"
+         style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" />
+    </g>
+    <g
+       id="g114">
+      <polyline
+         id="polyline110"
+         points="760,155.243 760,226 760,226 760,298.992 "
+         style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" />
+      <polygon
+         id="polygon112"
+         points="768,155.243 760,139.243 752,155.243 "
+         fill-rule="evenodd"
+         style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" />
+    </g>
+    <g
+       id="g120">
+      <polyline
+         id="polyline116"
+         points="760,155.243 760,226 1170,226 1170,298.992 "
+         style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" />
+      <polygon
+         id="polygon118"
+         points="768,155.243 760,139.243 752,155.243 "
+         fill-rule="evenodd"
+         style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" />
+    </g>
+    <g
+       id="g126">
+      <polyline
+         id="polyline122"
+         points="300,451.244 300,514.001 540,514.001 540,578.995 "
+         style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" />
+      <polygon
+         id="polygon124"
+         points="308,451.244 300,435.244 292,451.244 "
+         fill-rule="evenodd"
+         style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" />
+    </g>
+    <g
+       id="g132">
+      <polyline
+         id="polyline128"
+         points="760,451.244 760,514.001 540,514.001 540,578.995 "
+         style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" />
+      <polygon
+         id="polygon130"
+         points="768,451.244 760,435.244 752,451.244 "
+         fill-rule="evenodd"
+         style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" />
+    </g>
+    <g
+       id="g148">
+      <rect
+         id="rect134"
+         height="28"
+         width="260"
+         y="580"
+         x="1040"
+         style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" />
+      <text
+         id="text136"
+         y="603"
+         x="1170"
+         style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:TeX Gyre Heros;font-style:italic;font-weight:normal"
+         font-size="16">Kreis</text>
+      <rect
+         id="rect138"
+         height="8"
+         width="260"
+         y="608"
+         x="1040"
+         style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" />
+      <rect
+         id="rect140"
+         height="52"
+         width="260"
+         y="616"
+         x="1040"
+         style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" />
+      <text
+         id="text142"
+         y="633.2"
+         x="1043"
+         style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:TeX Gyre Heros;font-style:italic;font-weight:normal"
+         font-size="12.8"
+         xml:space="preserve"> Kreis(farbe:str,cx:float,cy:float,radius:float)</text>
+      <text
+         id="text144"
+         y="649.2"
+         x="1043"
+         style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:TeX Gyre Heros;font-style:italic;font-weight:normal"
+         font-size="12.8"
+         xml:space="preserve"> radius(): float</text>
+      <text
+         id="text146"
+         y="665.2"
+         x="1043"
+         style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:TeX Gyre Heros;font-style:italic;font-weight:normal"
+         font-size="12.8"
+         xml:space="preserve"> str(): str</text>
+    </g>
+    <g
+       id="g154">
+      <polyline
+         id="polyline150"
+         points="1170,451.244 1170,514.001 1170,514.001 1170,578.995 "
+         style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" />
+      <polygon
+         id="polygon152"
+         points="1178,451.244 1170,435.244 1162,451.244 "
+         fill-rule="evenodd"
+         style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" />
+    </g>
+  </g>
+  <g
+     id="g1328"
+     transform="matrix(0.99416881,0,0,0.99416881,8.6362135,3.950925)">
+    <path
+       style="fill:#ff0000;stroke:#000000;stroke-width:0.990625;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 589.50233,107.97196 c 0,0 -0.12884,-2.57657 -2.95207,-6.85528 -3.10281,-4.700832 -7.75981,-9.31397 -15.04816,-15.577168 -6.80868,-5.852058 -14.57671,-12.065929 -19.72706,-18.959584 -5.24629,-7.022464 -7.38427,-14.302606 -5.41077,-21.525163 1.9297,-7.080048 7.61454,-12.830679 14.65346,-15.201665 7.16775,-2.414825 14.26696,-0.912755 19.57903,3.017862 5.33676,3.94707 7.70501,9.316706 8.51085,12.438721 0.81135,3.14668 -0.022,3.14668 0.78944,0 0.80583,-3.122015 3.17408,-8.491651 8.51084,-12.438721 5.31207,-3.930617 12.41129,-5.432687 19.57904,-3.017862 7.03892,2.370986 12.72376,8.121617 14.65346,15.201665 1.9735,7.222557 -0.16448,14.502699 -5.41077,21.525163 -5.15035,6.893655 -12.91839,13.107526 -19.72706,18.959584 -7.28835,6.263198 -11.94535,10.876336 -15.04815,15.577168 -2.82325,4.27871 -2.95208,6.85528 -2.95208,6.85528 z"
+       id="path342" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.271173;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1226-2"
+       cx="589.50232"
+       cy="68.330605"
+       r="4.0948687" />
+  </g>
+  <path
+     style="fill:#0000ff;stroke:#000000;stroke-width:0.984848;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 565.70942,284.36644 h 90.06607 l 77.9995,-45.03304 -90.06607,10e-6 z"
+     id="path278" />
+  <circle
+     r="4.0709906"
+     cy="261.84991"
+     cx="649.74225"
+     id="path1226-9"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.269592;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <g
+     id="g1316"
+     transform="matrix(0.99416881,0,0,0.99416881,3.8485854,9.2019059)">
+    <rect
+       y="227.27084"
+       x="170.89032"
+       height="53.718098"
+       width="111.26986"
+       id="rect196"
+       style="fill:#00ff00;stroke:#000000;stroke-width:0.990625;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.271173;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1226-1"
+       cx="226.52525"
+       cy="254.1299"
+       r="4.0948687" />
+  </g>
+  <ellipse
+     style="fill:#ff00ff;stroke:#000000;stroke-width:0.697442;stroke-opacity:1"
+     id="path173"
+     cx="1086.8907"
+     cy="261.84991"
+     rx="51.897476"
+     ry="28.336399" />
+  <circle
+     r="4.0709906"
+     cy="261.84991"
+     cx="1086.8907"
+     id="path1226-27"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.269592;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <circle
+     style="fill:#ffff00;stroke:#000000;stroke-width:0.800275;stroke-opacity:1"
+     id="path192"
+     cx="974.34363"
+     cy="591.86267"
+     r="41.003372" />
+  <circle
+     r="4.0709906"
+     cy="591.86267"
+     cx="974.34363"
+     id="path1226-0"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.269592;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <rect
+     style="fill:#ff6600;stroke:#000000;stroke-width:0.910678;stroke-opacity:1"
+     id="rect194"
+     width="79.202225"
+     height="79.202225"
+     x="302.64456"
+     y="552.26154" />
+  <circle
+     r="4.0709906"
+     cy="591.86267"
+     cx="342.24564"
+     id="path1226-93"
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.269592;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:0.984848;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL)"
+     d="M 470.76999,141.38014 H 576.75534"
+     id="path1338" />
+  <path
+     id="path1338-6"
+     d="M 470.76999,35.394784 V 141.38014"
+     style="fill:none;stroke:#000000;stroke-width:0.984848;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInL)" />
+</svg>

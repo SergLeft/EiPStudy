@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg37"
+   version="1.1"
+   viewBox="570 123 464.28573 287.49996"
+   height="149.99998mm"
+   width="249.99998mm"
+   sodipodi:docname="ADT-Liste.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1846"
+     inkscape:window-height="1009"
+     id="namedview21"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1"
+     inkscape:cx="235.5"
+     inkscape:cy="282.5"
+     inkscape:window-x="74"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg37"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="in"
+     units="mm" />
+  <metadata
+     id="metadata43">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs41" />
+  <text
+     id="text44"
+     y="263.67563"
+     x="813.23932"
+     style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.960735"
+     font-size="12.2974px" />
+  <g
+     id="g13387">
+    <rect
+       id="rect2"
+       height="26.900583"
+       width="143.96617"
+       y="203.34146"
+       x="611.55701"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4"
+       y="225.43837"
+       x="683.5401"
+       style="font-style:italic;font-weight:normal;font-family:'TeX Gyre Heros';text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+       font-size="15.3718px">Liste</text>
+    <rect
+       id="rect6"
+       height="19.214703"
+       width="143.96617"
+       y="230.24205"
+       x="611.55701"
+       style="fill:#e3d7f4;fill-opacity:1;stroke:#000000;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text8"
+       y="246.76669"
+       x="614.43921"
+       style="font-style:italic;font-weight:normal;font-family:'TeX Gyre Heros';text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+       font-size="12.2974px"
+       xml:space="preserve"> kopf: Listenknoten</text>
+    <rect
+       id="rect10"
+       height="80.701752"
+       width="143.96617"
+       y="249.45674"
+       x="611.55701"
+       style="fill:#ffd5d5;fill-opacity:1;stroke:#000000;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text12"
+       y="265.98138"
+       x="614.43921"
+       style="font-style:italic;font-weight:normal;font-family:'TeX Gyre Heros';text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+       font-size="12.2974px"
+       xml:space="preserve"> Liste()</text>
+    <text
+       id="text14"
+       y="281.35315"
+       x="614.43921"
+       style="font-style:italic;font-weight:normal;font-family:'TeX Gyre Heros';text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+       font-size="12.2974px"
+       xml:space="preserve"> einfuege(element:int)</text>
+    <text
+       id="text16"
+       y="296.72491"
+       x="614.43921"
+       style="font-style:italic;font-weight:normal;font-family:'TeX Gyre Heros';text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+       font-size="12.2974px"
+       xml:space="preserve"> loesche(element:int)</text>
+    <text
+       id="text18"
+       y="312.09668"
+       x="614.43921"
+       style="font-style:italic;font-weight:normal;font-family:'TeX Gyre Heros';text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+       font-size="12.2974px"
+       xml:space="preserve"> suche(element:int): bool</text>
+    <text
+       id="text20"
+       y="327.46844"
+       x="614.43921"
+       style="font-style:italic;font-weight:normal;font-family:'TeX Gyre Heros';text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+       font-size="12.2974px"
+       xml:space="preserve"> str(): str</text>
+    <rect
+       id="rect24"
+       height="26.900583"
+       width="135.22346"
+       y="226.39911"
+       x="857.50525"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text26"
+       y="248.49602"
+       x="925.11694"
+       style="font-style:italic;font-weight:normal;font-family:'TeX Gyre Heros';text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+       font-size="15.3718px">Listenknoten</text>
+    <rect
+       id="rect28"
+       height="34.586464"
+       width="135.22346"
+       y="253.29968"
+       x="857.50525"
+       style="fill:#e3d7f4;fill-opacity:1;stroke:#000000;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text30"
+       y="269.82434"
+       x="860.38745"
+       style="font-style:italic;font-weight:normal;font-family:'TeX Gyre Heros';text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+       font-size="12.2974px"
+       xml:space="preserve"> inhalt: int</text>
+    <text
+       id="text32"
+       y="285.19611"
+       x="860.38745"
+       style="font-style:italic;font-weight:normal;font-family:'TeX Gyre Heros';text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+       font-size="12.2974px"
+       xml:space="preserve"> next: Listenknoten</text>
+    <rect
+       id="rect34"
+       height="19.214703"
+       width="135.22346"
+       y="287.88614"
+       x="857.50525"
+       style="fill:#ffd5d5;fill-opacity:1;stroke:#000000;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text36"
+       y="304.4108"
+       x="860.38745"
+       style="font-style:italic;font-weight:normal;font-family:'TeX Gyre Heros';text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+       font-size="12.2974px"
+       xml:space="preserve"> Listenknoten(inhalt:int)</text>
+    <polyline
+       id="polyline40"
+       points="676.031,206 709.925,206 709.925,206 754.991,206 "
+       style="fill:none;stroke:#000000;stroke-width:0.9975;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.96073514,0,0,0.96073514,131.18946,68.838541)" />
+    <polygon
+       id="polygon42"
+       points="678.859,206 664.859,210.8 650.859,206 664.859,201.2 "
+       fill-rule="evenodd"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.9975;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.96073514,0,0,0.96073514,131.18946,68.838541)" />
+    <text
+       id="text46"
+       y="263.67563"
+       x="787.23608"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+       font-size="12.2974px">1</text>
+    <text
+       id="text48"
+       y="263.67563"
+       x="852.69293"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+       font-size="12.2974px">0..*</text>
+  </g>
+</svg>

@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg37"
+   version="1.1"
+   viewBox="570 123 464.28573 287.49996"
+   height="149.99998mm"
+   width="249.99998mm"
+   sodipodi:docname="Polynom-Bruch.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1846"
+     inkscape:window-height="1009"
+     id="namedview21"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.5"
+     inkscape:cx="713"
+     inkscape:cy="215"
+     inkscape:window-x="74"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg37"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="in"
+     units="mm" />
+  <metadata
+     id="metadata43">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs41" />
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     x="602.02185"
+     y="154.83534"
+     width="159.87105"
+     height="27.487804"
+     id="rect479" />
+  <text
+     font-size="15.7073px"
+     style="font-style:italic;font-weight:normal;font-family:'TeX Gyre Heros';text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+     x="681.95734"
+     y="177.41461"
+     id="text481">Polynom</text>
+  <rect
+     style="fill:#e3d7f4;fill-opacity:1;stroke:#000000;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     x="602.02185"
+     y="182.32315"
+     width="159.87105"
+     height="19.634146"
+     id="rect483" />
+  <text
+     xml:space="preserve"
+     font-size="12.5659px"
+     style="font-style:italic;font-weight:normal;font-family:'TeX Gyre Heros';text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+     x="604.96698"
+     y="199.20851"
+     id="text485"> c: Bruch[]</text>
+  <rect
+     style="fill:#ffd5d5;fill-opacity:1;stroke:#000000;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     x="602.02185"
+     y="201.95729"
+     width="159.87105"
+     height="176.70732"
+     id="rect487" />
+  <text
+     xml:space="preserve"
+     font-size="12.5659px"
+     style="font-style:italic;font-weight:normal;font-family:'TeX Gyre Heros';text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+     x="604.96698"
+     y="218.84267"
+     id="text489"> Polynom(coeff:Bruch[])</text>
+  <text
+     xml:space="preserve"
+     font-size="12.5659px"
+     style="font-style:italic;font-weight:normal;font-family:'TeX Gyre Heros';text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+     x="604.96698"
+     y="234.54997"
+     id="text491"> grad(): int</text>
+  <text
+     xml:space="preserve"
+     font-size="12.5659px"
+     style="font-style:italic;font-weight:normal;font-family:'TeX Gyre Heros';text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+     x="604.96698"
+     y="250.25729"
+     id="text493"> add(p:Polynom): Polynom</text>
+  <text
+     xml:space="preserve"
+     font-size="12.5659px"
+     style="font-style:italic;font-weight:normal;font-family:'TeX Gyre Heros';text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+     x="604.96698"
+     y="265.9646"
+     id="text495"> pow(n:int): Polynom</text>
+  <text
+     xml:space="preserve"
+     font-size="12.5659px"
+     style="font-style:italic;font-weight:normal;font-family:'TeX Gyre Heros';text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+     x="604.96698"
+     y="281.67194"
+     id="text497"> mul(p:Polynom): Polynom</text>
+  <text
+     xml:space="preserve"
+     font-size="12.5659px"
+     style="font-style:italic;font-weight:normal;font-family:'TeX Gyre Heros';text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+     x="604.96698"
+     y="297.37927"
+     id="text499"> div(p:Polynom): Polynom</text>
+  <text
+     xml:space="preserve"
+     font-size="12.5659px"
+     style="font-style:italic;font-weight:normal;font-family:'TeX Gyre Heros';text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+     x="604.96698"
+     y="313.08658"
+     id="text501"> mod(p:Polynom): Polynom</text>
+  <text
+     xml:space="preserve"
+     font-size="12.5659px"
+     style="font-style:italic;font-weight:normal;font-family:'TeX Gyre Heros';text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+     x="604.96698"
+     y="328.79388"
+     id="text503"> isZero(): bool</text>
+  <text
+     xml:space="preserve"
+     font-size="12.5659px"
+     style="font-style:italic;font-weight:normal;font-family:'TeX Gyre Heros';text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+     x="604.96698"
+     y="344.50122"
+     id="text505"> diff(): Polynom</text>
+  <text
+     xml:space="preserve"
+     font-size="12.5659px"
+     style="font-style:italic;font-weight:normal;font-family:'TeX Gyre Heros';text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+     x="604.96698"
+     y="360.20853"
+     id="text507"> ggT(p:Polynom): Polynom</text>
+  <text
+     xml:space="preserve"
+     font-size="12.5659px"
+     style="font-style:italic;font-weight:normal;font-family:'TeX Gyre Heros';text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+     x="604.96698"
+     y="375.91583"
+     id="text509"> str(): str</text>
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     x="876.8999"
+     y="154.83534"
+     width="125.36402"
+     height="27.487804"
+     id="rect513" />
+  <text
+     font-size="15.7073px"
+     style="font-style:italic;font-weight:normal;font-family:'TeX Gyre Heros';text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+     x="939.58185"
+     y="177.41461"
+     id="text515">Bruch</text>
+  <rect
+     style="fill:#e3d7f4;fill-opacity:1;stroke:#000000;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     x="876.8999"
+     y="182.32315"
+     width="125.36402"
+     height="35.341465"
+     id="rect517" />
+  <text
+     xml:space="preserve"
+     font-size="12.5659px"
+     style="font-style:italic;font-weight:normal;font-family:'TeX Gyre Heros';text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+     x="879.84503"
+     y="199.20851"
+     id="text519"> zaehler: int</text>
+  <text
+     xml:space="preserve"
+     font-size="12.5659px"
+     style="font-style:italic;font-weight:normal;font-family:'TeX Gyre Heros';text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+     x="879.84503"
+     y="214.91583"
+     id="text521"> nenner: int</text>
+  <rect
+     style="fill:#ffd5d5;fill-opacity:1;stroke:#000000;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     x="876.8999"
+     y="217.66461"
+     width="125.36402"
+     height="161"
+     id="rect523" />
+  <text
+     xml:space="preserve"
+     font-size="12.5659px"
+     style="font-style:italic;font-weight:normal;font-family:'TeX Gyre Heros';text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+     x="879.84503"
+     y="234.54997"
+     id="text525"> Bruch(z:int,n:int=1)</text>
+  <text
+     xml:space="preserve"
+     font-size="12.5659px"
+     style="font-style:italic;font-weight:normal;font-family:'TeX Gyre Heros';text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+     x="879.84503"
+     y="250.25729"
+     id="text527"> neg(): Bruch</text>
+  <text
+     xml:space="preserve"
+     font-size="12.5659px"
+     style="font-style:italic;font-weight:normal;font-family:'TeX Gyre Heros';text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+     x="879.84503"
+     y="265.9646"
+     id="text529"> add(b:Bruch): Bruch</text>
+  <text
+     xml:space="preserve"
+     font-size="12.5659px"
+     style="font-style:italic;font-weight:normal;font-family:'TeX Gyre Heros';text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+     x="879.84503"
+     y="281.67194"
+     id="text531"> sub(b:Bruch): Bruch</text>
+  <text
+     xml:space="preserve"
+     font-size="12.5659px"
+     style="font-style:italic;font-weight:normal;font-family:'TeX Gyre Heros';text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+     x="879.84503"
+     y="297.37927"
+     id="text533"> mul(b:Bruch): Bruch</text>
+  <text
+     xml:space="preserve"
+     font-size="12.5659px"
+     style="font-style:italic;font-weight:normal;font-family:'TeX Gyre Heros';text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+     x="879.84503"
+     y="313.08658"
+     id="text535"> div(b:Bruch): Bruch</text>
+  <text
+     xml:space="preserve"
+     font-size="12.5659px"
+     style="font-style:italic;font-weight:normal;font-family:'TeX Gyre Heros';text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+     x="879.84503"
+     y="328.79388"
+     id="text537"> cancel(): Bruch</text>
+  <text
+     xml:space="preserve"
+     font-size="12.5659px"
+     style="font-style:italic;font-weight:normal;font-family:'TeX Gyre Heros';text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+     x="879.84503"
+     y="344.50122"
+     id="text539"> isZero(): bool</text>
+  <text
+     xml:space="preserve"
+     font-size="12.5659px"
+     style="font-style:italic;font-weight:normal;font-family:'TeX Gyre Heros';text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+     x="879.84503"
+     y="360.20853"
+     id="text541"> lt(b:Bruch): bool</text>
+  <text
+     xml:space="preserve"
+     font-size="12.5659px"
+     style="font-style:italic;font-weight:normal;font-family:'TeX Gyre Heros';text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.958333;stroke-miterlimit:4;stroke-dasharray:none"
+     x="879.84503"
+     y="375.91583"
+     id="text543"> str(): str</text>
+  <g
+     style="stroke-width:0.97619;stroke-miterlimit:4;stroke-dasharray:none"
+     id="g555"
+     transform="matrix(0.98170732,0,0,0.98170732,111.16817,17.39632)">
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:0.97619;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       points="689.027,254 728.424,254 728.424,254 778.992,254 "
+       id="polyline547" />
+    <polygon
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.97619;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       fill-rule="evenodd"
+       points="663.855,254 677.855,249.2 691.855,254 677.855,258.8 "
+       id="polygon549" />
+    <text
+       font-size="12.7998px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.97619;stroke-miterlimit:4;stroke-dasharray:none"
+       x="695.85498"
+       y="250"
+       id="text551">1</text>
+    <text
+       font-size="12.7998px"
+       style="font-style:normal;font-weight:normal;font-family:monospace;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.97619;stroke-miterlimit:4;stroke-dasharray:none"
+       x="774.992"
+       y="250"
+       id="text553">1..*</text>
+  </g>
+</svg>
