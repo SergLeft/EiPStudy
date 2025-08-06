@@ -1,0 +1,30 @@
+Wasser H 2 O 1  
+Kohlendioxid C 1 O 2  
+Methan C 1 H 4  
+Ammoniak N 1 H 3  
+Kohlenmonoxid C 1 O 1  
+Schwefeldioxid S 1 O 2  
+Ozon O 3  
+Salzsäure H 1 Cl 1  
+Essigsäure C 2 H 4 O 2  
+Glucose C 6 H 12 O 6  
+Sauerstoffgas O 2  
+Stickstoffgas N 2  
+Schwefelsäure H 2 S 1 O 4  
+Salpetersäure H 1 N 1 O 3  
+Phosphorsäure H 3 P 1 O 4  
+Ethanol C 2 H 6 O 1  
+Aceton C 3 H 6 O 1  
+Methanol C 1 H 4 O 1  
+Butan C 4 H 10  
+Propangas C 3 H 8  
+Chloroform C 1 H 1 Cl 3  
+Ethen C 2 H 4  
+Propen C 3 H 6  
+Benzol C 6 H 6  
+Phenol C 6 H 6 O 1  
+Toluol C 7 H 8  
+Kaliumpermanganat K 1 Mn 1 O 4  
+Natriumchlorid Na 1 Cl 1  
+Backpulver Na 1 H 1 C 1 O 3  
+Wasserstoffperoxid H 2 O 2  
